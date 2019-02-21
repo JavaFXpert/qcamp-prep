@@ -24,4 +24,5 @@ Make sure you know about the following topics. If you need to brush up, you can 
 
 - Learn about basic quantum gates: (see [here](https://ibm.biz/hello-qiskit) or [here](https://github.com/Qiskit/qiskit-tutorials/blob/master/qiskit/terra/summary_of_quantum_operations.ipynb))
 - Learn about basic quantum circuits: (see [here](https://learnqiskit.gitbook.io/composerguide/getting-started-with-the-composer/chapter-1-the-atoms-of-computation) or [here](https://github.com/Qiskit/qiskit-tutorials/blob/master/qiskit/terra/quantum_circuits.ipynb))
-- [Creating and running circuits with Qiskit](
+- [Creating and running circuits with Qiskit](https://github.com/Qiskit/qiskit-tutorials/blob/master/community/hello_world/README.md)
+
